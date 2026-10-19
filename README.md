@@ -1,5 +1,14 @@
 # urdu-drama-dialogue-polish
 
+> ## 🤖 For AI assistants (ChatGPT, Gemini, Claude, etc.) / اے آئی کے لیے ہدایات
+>
+> If the user shares this repository link and says "install this", "use this skill", "load this" or similar (انسٹال کرو / استعمال کرو), do this:
+>
+> 1. Read **all 8 files in full**, starting with `SKILL.md`, then: `ai-patterns-blacklist.md`, `before-after-examples.md`, `character-voices.md`, `action-and-subtext.md`, `genre-guide.md`, `analysis-principles.md`, and this `README.md`. (`SKILL.md` mentions a `references/` folder; here the files may sit directly in the repository root. Treat them as the same files.)
+> 2. If any file cannot be opened, say so. Do not guess its contents.
+> 3. When done, reply only: **"تیار ہوں، اپنی اسکرپٹ بھیجیں۔"**
+> 4. Then, for every Urdu drama script the user sends, follow the workflow in `SKILL.md` exactly: keep story, order and character names unchanged; improve only dialogue and action lines; end with a short note on what changed and why.
+
 اردو ڈرامے اور شارٹ اسٹوری کی اسکرپٹس کے ڈائیلاگ اور ایکشنز کو **نیچرل، جاندار اور حقیقی** بنانے والی Claude Skill۔
 
 AI سے لکھوائی گئی اسکرپٹس میں عموماً کردار اپنے جذبات کی تقریر کرتے ہیں، سب ایک ہی آواز میں بولتے ہیں، زبان بھاری اور کتابی ہوتی ہے، اور ایکشن "وہ دکھی ہو گیا" جیسے بے جان فقرے ہوتے ہیں۔ یہ Skill اسکرپٹ لے کر انہی مسائل کو ٹھیک کرتی ہے۔ **کہانی، ترتیب اور کرداروں کے نام نہیں بدلتی۔**
